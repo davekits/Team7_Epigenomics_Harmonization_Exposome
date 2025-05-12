@@ -1,8 +1,6 @@
 # Team7_Epigenomics_Harmonization_Exposome
-Here’s how you can add this problem statement and the related information **with an illustrative image** to your `README.md` using Markdown:
 
-```markdown
-# The Challenge
+## The Challenge
 
 **How do we connect multiple disparate data types to obtain a meaningful understanding of the biological functions of an organism?**
 
@@ -23,6 +21,3 @@ Here’s how you can add this problem statement and the related information **wi
 - **The Cancer Genome Atlas (TCGA):** Methylation array profiles
 
 ![Epigenomics and Exposome Integration](images/exsome.png)
-```
-
-
