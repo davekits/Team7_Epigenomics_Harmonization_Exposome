@@ -22,7 +22,7 @@ Here’s how you can add this problem statement and the related information **wi
 - **GEO (Gene Expression Omnibus):** DNA methylation datasets
 - **The Cancer Genome Atlas (TCGA):** Methylation array profiles
 
-![Epigenomics and Exposome Integration](exsome.png)
+![Epigenomics and Exposome Integration](images/exsome.png)
 ```
 
 
